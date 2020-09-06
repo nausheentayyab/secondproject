@@ -1,0 +1,2 @@
+Since every contributor has a full copy of the project repository, they can share changes with one another if they want to get some feedback before affecting changes in the main
+repository.
