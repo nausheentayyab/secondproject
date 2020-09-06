@@ -1,0 +1,7 @@
+All operations (except push &
+pull) are very fast because
+the tool only needs to access
+the hard drive, not a remote
+server. Hence, you do not
+always need an internet
+connection.
